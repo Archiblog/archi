@@ -21,5 +21,4 @@
 </body>
 </html>
 
-Return to landing page:— https://archiblog.github.io
-
+Return to landing page:— https://archiblog.github.io/archi/
