@@ -6,8 +6,8 @@
 
 <p>Click the thumbnails:—
   
-<a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1966)%20PTB%20report.pdf"><img src="images/ptb-report-1-66.png" alt="CPotteries Thinkbelt Report" style="width:71px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1966)%20Potteries%20Thinkbelt%2C%20Architectural%20Design.pdf"><img src="images/ad-10-66.jpg" alt="CPotteries Thinkbelt" style="width:78px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1968)%20Atom.pdf"><img src="images/ad-5-68.jpg" alt="AD May 1968" style="width:78px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1966)%20PTB%20report.pdf"><img src="images/item_25346_t.png" alt="CPotteries Thinkbelt Report" style="width:71px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1966)%20Potteries%20Thinkbelt%2C%20Architectural%20Design.pdf"><img src="images/item_25160_t.jpg" alt="CPotteries Thinkbelt" style="width:78px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1968)%20Atom.pdf"><img src="images/item_24753_t.jpg" alt="AD May 1968" style="width:78px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Archiblog/archi/blob/main/pdfs/Price%2C%20C.%20(1968)%20Atom.pdf"><img src="images/item_25687_t.jpg" alt="Despite Popular Demand" style="width:78px;height:100px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </body>
 </html>
